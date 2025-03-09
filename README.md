@@ -16,4 +16,4 @@ As we live in a world of technology, we ultimately happen to be exposed to scree
 ---
 
 ## **Project Plan**
-This project aims to uncover the patterns in sleeping quality across usage of phone by correlating data from a Screen Time tool of Iphone and sleeping time by manually tracking data of components which are screen time, sleep duration and night waking frequency on Excel chart.
+This project aims to uncover the patterns in sleeping quality across usage of phone by correlating data from Screen Time tool of Iphone and sleeping period by manually tracking data of following components: screen time, sleep duration and night waking frequency, on Excel chart.

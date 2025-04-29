@@ -9,7 +9,7 @@ These two hypotheses will be tested:
 
 
 ### MOTIVATION
-As we live in a world of technology, we ultimately happen to be exposed to screens pretty much all the time in a daily life. And there exists a lot of researches, articles on this matter that presents being exposed to screen throughout the day can significantly impact the quality of daily life in so many different aspects.By studying the data I acquired from a Screen Time tool and Excel, I aim to:
+As we live in a world of technology, we ultimately happen to be exposed to screens pretty much all the time in a daily life. And there exists a lot of researches, articles on this matter that states being exposed to screen throughout the day can significantly impact the quality of daily life in so many different aspects.By studying the data I acquired from a Screen Time tool and Excel, I aim to:
 - Understand the relationship between screen usage and sleeping time.
 - Acknowledge to which extent does being exposed to screen affects sleeping pattern.
 

@@ -14,7 +14,7 @@ As we live in a world of technology, we ultimately happen to be exposed to scree
 - Use of tools and analyze the data with respect to the scientific approach. 
 
 ## **Description of Dataset**
-- **Date of the day** :
+- **Date of the day**:
 
 
 

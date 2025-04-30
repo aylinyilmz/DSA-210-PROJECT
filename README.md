@@ -28,7 +28,7 @@ As we live in a era of technology, we ultimately happen to be exposed to screens
 - At the end of the data collection period, exploratory data analysis (EDA) will be applied by using statistical and visualization techniques.
 
 ## **Tools for Data Analysis**
-    I'll will use following tools for visualization:
+I'll will use following tools for visualization:
 - **Pyhton** :For statistical analysis and data cleaning(if needed).
 - **Google Collab** : For creating visualizations.
 

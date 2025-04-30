@@ -32,7 +32,7 @@ As we live in a era of technology, we ultimately happen to be exposed to screens
   Organized summary of my data analysis process including plan, data source, data collection and techniques that will be applied.
 
 -**1. Data Cleaning and Preparation**:
-- I will organize the raw data in Excell sheet or Numbers App.
+- I will organize the raw data (for screen time retrieved from Iphone) in Excell sheet or Numbers App.
 - I will check for missing, inconsistent values.
 - I will standardize units (screen time in hours and minutes, same for the sleeping duration).
   

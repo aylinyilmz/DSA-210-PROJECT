@@ -14,13 +14,11 @@ As we live in a world of technology, we ultimately happen to be exposed to scree
 - Use of tools and analyze the data with respect to the scientific approach. 
 
 ## **Description of Dataset**
-- **Date of the day**:
-
-
-
-
-
-
+- **Day of the week** : I will include the days between 11th of March and 11th of April. Also it can be specified by weekdays and weekends.
+- **Total duration of screen time** : The exact usage of phone using.
+- **Total duration of screen time before bed** : The exact usage of phone just before fallin asleep.
+- **Total duration of sleep** : The exact amount of sleeping during the whole night.(in hours)
+- **Night waking frequency** : The exat number of waking up during the night.
 
 ---
 

@@ -27,3 +27,9 @@ As we live in a era of technology, we ultimately happen to be exposed to screens
 - This project aims to uncover the patterns in sleeping quality across usage of phone by correlating data from Screen Time tool of Iphone and sleeping period by manually tracking data of following components: total screen time, screen time before bed, sleep duration and night waking frequency, on Excel chart.
 - At the end of the data collection period, exploratory data analysis (EDA) will be applied by using statistical and visualization techniques.
 
+## **Tools for Data Analysis**
+    I'll will use following tools for visualization:
+- **Pyhton** :For statistical analysis and data cleaning(if needed).
+- **Google Collab** : For creating visualizations.
+
+

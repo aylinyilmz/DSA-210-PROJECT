@@ -39,13 +39,13 @@ As we live in a era of technology, we ultimately happen to be exposed to screens
 -**2.Exploratory Data Analysis(EDA)**:
 - I will visualize distributions using histograms (for screen time, sleep duration), boxplots( for identifying outliers) and line graphs ( to track changes over time).
 
-- **3.Correlation Analysis** :
+-**3.Correlation Analysis**:
 - I will calculate correlation coefficients (Pearson or Spearman) between:
   - Total screen time and sleep duration.
   - Screen time before bed and sleep duration.
   - Screen time variables and night waking frequency. 
 - I will test statistical significance (p-values).
-- **4.Visualization** :
+-**4.Visualization**:
 - Visualization to represent correlations. 
 
 ## **Tools for Data Analysis**

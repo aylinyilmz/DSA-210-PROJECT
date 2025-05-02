@@ -15,7 +15,7 @@ As we live in a era of technology, we ultimately happen to be exposed to screens
 - Use of tools and analyze the data with respect to the scientific approach. 
 
 ## **Description of Dataset**
-- **Day of the week** : I will include the days between 11th of March and 11th of April. Also it can be specified by weekdays and weekends.
+- **Day of the week** : I will include the days between 11th of March and 11th of April. Also I will observe the data separately as Weekend and Weekday.
 - **Total duration of screen** : The exact usage of phone using.
 - **Total duration of screen before bed** : The exact usage of phone just before falling asleep.
 - **Total duration of sleep** : The exact amount of sleeping during the whole night.(in hours)
@@ -53,5 +53,6 @@ As we live in a era of technology, we ultimately happen to be exposed to screens
 I'll will use following tools for data:
 - **Python** :For statistical analysis and data cleaning(if needed).
 - **Google Colab** : For creating visualizations.
-
+- **Pandas** : To manipulate and preprocess data.
+- **Matplotlib and Seaburn** : For creating visualizations(in google colab).
 

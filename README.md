@@ -1,6 +1,6 @@
 # DSA-210-PROJECT
 ### PROJECT IDEA
-I am a student from Sabancı University, Aylin Yılmaz (32168), and this is my project which I will be testing for a month whether using a phone before bed and total amount of phone usage during a day negatively impacts sleep quality by analyzing data from Iphone's screen time  and Excel chart or Numbers app.
+I am a student from Sabancı University, Aylin Yılmaz (32168), and this is my project which I will be testing for a month whether using a phone before bed and total amount of phone usage during a day has any impacts on sleep quality by analyzing data from Iphone's screen time  and Excel chart or Numbers app.
 
 These two hypotheses will be tested:
 - **[First hypothesis]**: Sleep quality is correlated with screen time.
